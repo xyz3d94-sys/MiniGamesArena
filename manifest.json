@@ -1,0 +1,32 @@
+{
+  "id": "/?source=pwa",
+  "name": "Mini Games Arena",
+  "short_name": "MGArena",
+  "description": "Smart Mobile Arcade with offline AI bot games and live multiplayer",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "assets/images/Icon2.png",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "assets/images/Icon1.png",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "assets/images/Icon1.png",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "Mini Games Arena Preview"
+    }
+  ]
+}
